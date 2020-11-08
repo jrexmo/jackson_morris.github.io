@@ -1,2 +1,2 @@
 Welcome to my homepage!
-| ![A Photo of me](photo_of_me.png) | I am text to the right |
+![A Photo of me](photo_of_me.png){ width=50% height = 50%}

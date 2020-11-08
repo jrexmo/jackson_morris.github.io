@@ -1,5 +1,4 @@
 Welcome to my homepage!
 
 
-
-![A Photo of me][align = "right"](photo_of_me.png)
+<div style="text-align: right"> ![A Photo of me](photo_of_me.png)</div>

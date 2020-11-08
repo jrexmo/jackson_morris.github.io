@@ -1,3 +1,6 @@
 Welcome to my homepage!
 
-![A Photo of me](photo_of_me.png){:height="700px" :width="400px"}
+<img src="https://github.com/jrexmo/jrexmo.github.io/blob/main/photo_of_me.png" width="100" height="100">
+
+
+

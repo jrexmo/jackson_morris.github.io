@@ -1,2 +1,2 @@
-# jackson_morris.github.io
-My homepage for the time being.
+# Jackson Rex Morris
+Welcome to my homepage!
